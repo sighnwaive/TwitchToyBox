@@ -1,0 +1,23 @@
+{
+  "name": "twitchtoybox",
+  "version": "0.0.0",
+  "description": "Backend Service to allow streamers to sign up for toys for their stream.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sighnwaive/TwitchToyBox.git"
+  },
+  "author": "SighnWaive",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sighnwaive/TwitchToyBox/issues"
+  },
+  "homepage": "https://github.com/sighnwaive/TwitchToyBox#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-vue": "^5.16.0"
+  }
+}
